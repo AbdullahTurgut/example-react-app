@@ -13,6 +13,7 @@ function App() {
   return (
     <Router>
       <div>
+        <h2>Example App</h2>
         <nav>
           <ul>
             <li>
